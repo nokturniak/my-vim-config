@@ -1,0 +1,7 @@
+ag
+ctrlp
+nerdtree
+perforce
+signify
+tagbar
+vim-bookmarks
