@@ -25,7 +25,11 @@ map k gk
 syntax on
 
 set guifont=Ubuntu\ Mono\ 13
-set guioptions-=m,T,L,R,r
+set guioptions-=m
+set guioptions-=T
+set guioptions-=L
+set guioptions-=R
+set guioptions-=r
 
 set antialias
 set number
